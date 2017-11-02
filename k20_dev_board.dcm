@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5245
+D Digital potentiometer, 256 position, single output, I2C interface
+K digital potentiometer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5245.pdf
+$ENDCMP
+#
 $CMP C
 D Unpolarized capacitor
 $ENDCMP
@@ -28,6 +34,10 @@ $CMP MIDI-DIN-5
 D MIDI 5-pin DIN connector
 K MIDI circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G3157
+D Single-Pole Double-Throw Analog Switch
 $ENDCMP
 #
 $CMP TS4962IQT
