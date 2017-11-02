@@ -1,0 +1,34 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP DIN-5
+D 5-pin DIN connector
+K circular DIN connector
+F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
+$CMP LED_CRGB
+D LED RGB, Common Cathode
+K led rgb diode
+$ENDCMP
+#
+$CMP LED_CRGB_altpin
+D LED RGB, Common Cathode
+K led rgb diode
+$ENDCMP
+#
+$CMP MIDI-DIN-5
+D MIDI 5-pin DIN connector
+K MIDI circular DIN connector
+F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
+$CMP USB_OTG
+D USB mini/micro connector
+K connector USB
+$ENDCMP
+#
+#End Doc Library
