@@ -10,6 +10,10 @@ K circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
 $ENDCMP
 #
+$CMP DSC6001HI1A-005.0000T
+D Low Power MEMS Oscillator
+$ENDCMP
+#
 $CMP LED_CRGB
 D LED RGB, Common Cathode
 K led rgb diode
@@ -24,6 +28,10 @@ $CMP MIDI-DIN-5
 D MIDI 5-pin DIN connector
 K MIDI circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
+$CMP TS4962IQT
+D 2.8 W filter-free mono class D audio power amplifier
 $ENDCMP
 #
 $CMP USB_OTG
