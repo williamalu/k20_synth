@@ -30,6 +30,18 @@ D LED RGB, Common Cathode
 K led rgb diode
 $ENDCMP
 #
+$CMP MCP6022
+D General Purpose Amplifier 2 Circuit Rail-to-Rail 8-TSSOP
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001685E.pdf
+$ENDCMP
+#
+$CMP MCP6024
+D General Purpose Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001685E.pdf
+$ENDCMP
+#
 $CMP MIDI-DIN-5
 D MIDI 5-pin DIN connector
 K MIDI circular DIN connector
