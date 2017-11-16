@@ -10,6 +10,10 @@ $CMP C
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP CD74HC4053PWR
+D Triple 2 to 1 Multiplexer/Demultiplexer
+$ENDCMP
+#
 $CMP DIN-5
 D 5-pin DIN connector
 K circular DIN connector
