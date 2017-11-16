@@ -56,6 +56,11 @@ $CMP SN74LVC1G3157
 D Single-Pole Double-Throw Analog Switch
 $ENDCMP
 #
+$CMP SW_Push_Dual_x2
+D Push button switch, generic, separate symbols, four pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
 $CMP TS4962IQT
 D 2.8 W filter-free mono class D audio power amplifier
 $ENDCMP
