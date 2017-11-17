@@ -69,7 +69,7 @@ $CMP TS4962IQT
 D 2.8 W filter-free mono class D audio power amplifier
 $ENDCMP
 #
-$CMP USB_OTG
+$CMP USB_OTG_PWR
 D USB mini/micro connector
 K connector USB
 $ENDCMP
