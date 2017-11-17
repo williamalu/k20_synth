@@ -52,6 +52,10 @@ K MIDI circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
 $ENDCMP
 #
+$CMP SG-636PCE5.0000MC0
+D CMOS Crystal Oscillator
+$ENDCMP
+#
 $CMP SN74LVC1G3157
 D Single-Pole Double-Throw Analog Switch
 $ENDCMP
