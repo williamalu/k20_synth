@@ -5,7 +5,7 @@
     (no_connects 1)
     (area 146.165499 80.696999 224.738001 143.267501)
     (thickness 1.6)
-    (drawings 10)
+    (drawings 11)
     (tracks 750)
     (zones 0)
     (modules 99)
@@ -3793,6 +3793,9 @@
     )
   )
 
+  (gr_text "William Lu\nFranton Lin\nEclectronics FL2017" (at 157.734 139.0904) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)) (justify left))
+  )
   (gr_text SPK+ (at 222.504 122.7455) (layer F.SilkS) (tstamp 5A0FC9E8)
     (effects (font (size 1 1) (thickness 0.2)))
   )
