@@ -65,6 +65,12 @@ D Push button switch, generic, separate symbols, four pins
 K switch normally-open pushbutton push-button
 $ENDCMP
 #
+$CMP Spk_Screw_Terminal_01x02
+D Generic screw terminal, single row, 01x02
+K screw terminal
+F ~
+$ENDCMP
+#
 $CMP TS4962IQT
 D 2.8 W filter-free mono class D audio power amplifier
 $ENDCMP

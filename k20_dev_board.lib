@@ -499,6 +499,30 @@ X B 4 200 0 100 L 50 50 2 1 P
 ENDDRAW
 ENDDEF
 #
+# Spk_Screw_Terminal_01x02
+#
+DEF Spk_Screw_Terminal_01x02 J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Spk_Screw_Terminal_01x02" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*Terminal*Block*:*
+ TerminalBlock*
+$ENDFPLIST
+DRAW
+C 0 -100 25 1 1 6 N
+C 0 0 25 1 1 6 N
+S -50 50 50 -150 1 1 10 f
+P 2 1 1 6 -21 -87 13 -120 N
+P 2 1 1 6 -21 13 13 -20 N
+P 2 1 1 6 -14 -80 20 -113 N
+P 2 1 1 6 -14 20 20 -13 N
+X SPK- 1 -200 -100 150 R 50 50 1 1 P
+X SPK+ 2 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # TS4962IQT
 #
 DEF TS4962IQT U 0 40 Y Y 1 F N
